@@ -144,3 +144,4 @@ Tried three restriction enzymes. GAATTC recognition sequence gets closest to the
 Sprint 6: Created biotools conda/mamba environment, exported environment.yml
 
 Sprint 7: pulled bcftools biocontainer from Docker and ran it on my real VCF of danio_rerio genome data without installing bcftools locally
+testing clone/pull sync
