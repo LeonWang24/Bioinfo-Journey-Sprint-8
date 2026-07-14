@@ -145,3 +145,4 @@ Sprint 6: Created biotools conda/mamba environment, exported environment.yml
 
 Sprint 7: pulled bcftools biocontainer from Docker and ran it on my real VCF of danio_rerio genome data without installing bcftools locally
 testing clone/pull sync
+Sprint 8: Learned how to create a git repo and clone/pull a repo from online
