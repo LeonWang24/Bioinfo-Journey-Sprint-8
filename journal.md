@@ -141,4 +141,6 @@ Sprint 3: Downloaded danio_rerio.vcf from website instead of yeast because yeast
    1 KN147632.2
 Tried three restriction enzymes. GAATTC recognition sequence gets closest to the goal of 3kb, 2776 bases, while AAGCTT gets 2736. GGATCC gets 7314 bases on average fragment, so too long. EcoRI is likely the best choice
 
-Sprint 6: Created biotools conda/mamba environment, exported environment.ymlSprint 7: pulled bcftools biocontainer from Docker and ran it on my real VCF of danio_rerio genome data without installing bcftools locally
+Sprint 6: Created biotools conda/mamba environment, exported environment.yml
+
+Sprint 7: pulled bcftools biocontainer from Docker and ran it on my real VCF of danio_rerio genome data without installing bcftools locally
